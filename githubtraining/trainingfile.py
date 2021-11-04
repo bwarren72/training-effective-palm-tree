@@ -6,3 +6,6 @@ def test_function2():
 
 def test_function3():
     #direct commit
+
+def branch_function():
+    #adding a new branch
