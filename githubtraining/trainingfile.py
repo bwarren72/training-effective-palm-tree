@@ -3,3 +3,6 @@ def test_function():
 
 def test_function2():
     #more code here
+
+def test_function3():
+    #direct commit
